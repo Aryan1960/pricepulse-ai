@@ -92,7 +92,7 @@ pricepulse-ai/
 -  Pricing recommendations vs competitor
 -  Production capacity optimization
 -  Profit outlook comparison
-- 📊 Interactive historical trend charts
+-  Interactive historical trend charts
 
 ---
 
