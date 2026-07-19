@@ -1,4 +1,4 @@
-# 📊 PricePulse AI
+# PricePulse AI
 
 > AI-powered operational intelligence system for MSMEs and small-scale industries.
 
@@ -6,7 +6,7 @@ PricePulse AI helps small factories, textile units, food producers, and workshop
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the repo
 ```bash
@@ -36,7 +36,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 pricepulse-ai/
@@ -56,7 +56,7 @@ pricepulse-ai/
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Synthetic Data** — 400 rows of realistic industrial data with seasonal demand patterns, price elasticity, and raw material cost trends.
 2. **AI Model** — `RandomForestRegressor` predicts demand based on inventory, pricing, competitor prices, and seasonal features.
@@ -65,7 +65,7 @@ pricepulse-ai/
 
 ---
 
-## 🌍 SDG Alignment
+##  SDG Alignment
 
 | SDG | Contribution |
 |-----|-------------|
@@ -76,7 +76,7 @@ pricepulse-ai/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend/AI**: Python, Scikit-learn, Pandas, NumPy
 - **Frontend**: Streamlit
@@ -85,13 +85,13 @@ pricepulse-ai/
 
 ---
 
-## 📸 Features
+##  Features
 
-- 🔮 Real-time demand prediction
-- 📦 Inventory risk assessment
-- 💲 Pricing recommendations vs competitor
-- 🏭 Production capacity optimization
-- 📈 Profit outlook comparison
+-  Real-time demand prediction
+-  Inventory risk assessment
+-  Pricing recommendations vs competitor
+-  Production capacity optimization
+-  Profit outlook comparison
 - 📊 Interactive historical trend charts
 
 ---
